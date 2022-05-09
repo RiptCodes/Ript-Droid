@@ -1,0 +1,12 @@
+{
+    "website": {
+        "support": "https://discord.gg/yrzwHH2W45",
+        "domain" : "https://riptboard.rayanshamsi.repl.co"
+    },
+    "config": {
+        "port": 80,
+        "callback": "https://riptboard.rayanshamsi.repl.co/callback",
+        "clientID": "957069026935328848",
+        "secret": "Ppq6Jh85KPk6MudGfGGSrXzjgnwMDJ1c"
+    }
+}
